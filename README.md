@@ -6,11 +6,9 @@
 ```npm run dev```.
 
 #### Enviroiments
-##### Variables de entorno
 1. .env.example is example of enviroments variables necessary.
 ### Released and deployed in VERCEL with public URL.
 * https://react-supabase-auth-crud.vercel.app/
-
 
 ## Technologies used 🛠️
 * [React](https://es.react.dev/)
